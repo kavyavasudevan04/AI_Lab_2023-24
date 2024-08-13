@@ -33,4 +33,6 @@ print("Following is the Breadth-First Search")
 bfs(visited, graph, '5')
 
 # Output:
+![image](https://github.com/user-attachments/assets/1b724309-ac05-45b2-b98f-7b2092eebbf1)
+
 
