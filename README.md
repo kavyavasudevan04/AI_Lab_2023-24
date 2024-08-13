@@ -1,5 +1,5 @@
 # AI_Lab_2023-24
-LAB EXPERIMENTS 
+# BREADTH FIRST SEARCH 
 # REQUIREMENTS 
 1. PYHTON
 2. SWI-PROLOG
@@ -19,7 +19,7 @@ graph = {
  queue = []     
  def bfs(visited, graph, node): 
  	 visited.append(node)
-  	queue.append(node)
+   queue.append(node)
   		while queue:          
     			m = queue.pop(0) 
     			print (m) 
